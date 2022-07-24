@@ -1,0 +1,145 @@
+@media (max-width: 769px) {
+    #r2{
+        height: 385px;
+    }
+    #r2 #r2d1{
+        width: 50%;
+        height: auto;
+        padding:8% ;
+    } 
+    /* home screen responsive end */
+    #about{
+        height: 450px;
+    }
+    #about .col-md-5 img{
+        width: 80%;
+        height: 100%; 
+        
+    }
+    /* #about #ac2 {
+        
+    } */
+    #about #ac2 p{
+        font-size: 15px;
+        text-align: justify;
+    }
+    #skill hr{
+        width: 50%;
+    }
+    .progress_outer{
+        height: 150px;
+        width: 150px;
+    }
+    .progress_inner{
+        height:120px;
+        width: 120px;             
+    }
+    .progress_inner span{
+        font-size: 15px;
+    }
+    #skill h5{
+        font-size: 15px;
+    }
+    #skill .row .col{
+        width: 30%;
+        
+    }
+    /* skill end */
+    #services .sp{
+        width: 90%;
+    }
+    #services p{
+        text-align: justify;
+    }
+    #protflio .menu_iso{
+        width: 90%;
+        margin: auto;
+    }
+    #protflio .img_iso{
+        margin: auto;
+    }
+     /*protflio end  */
+
+}
+
+
+@media (max-width: 575px){
+    .vbox-overlay {
+        width: 100%;
+        height: 30%;
+    }
+    #r2{
+        height: auto;
+        background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1161%26quot%3b)' fill='none'%3e%3crect width='1440' height='560' x='0' y='0' fill='%230e2a47'%3e%3c/rect%3e%3cg transform='translate(-216%2c -33.6)' stroke-linecap='round'%3e%3cpath d='M289.5 228.055 L289.5 331.945' stroke-width='30.75' stroke='%233a7cc3'%3e%3c/path%3e%3cpath d='M330.5 220.735 L330.5 339.265' stroke-width='30.75' stroke='%23dd1133'%3e%3c/path%3e%3cpath d='M371.5 246.975 L371.5 313.015' stroke-width='30.75' stroke='%233a7cc3'%3e%3c/path%3e%3cpath d='M412.5 240.815 L412.5 319.185' stroke-width='30.75' stroke='%23dd1133'%3e%3c/path%3e%3cpath d='M453.5 161.165 L453.5 222.665' stroke-width='30.75' stroke='%23dd1133'%3e%3c/path%3e%3cpath d='M453.5 268.78999999999996 L453.5 299.53999999999996' stroke-width='30.75' stroke='%23dd1133'%3e%3c/path%3e%3cpath d='M453.5 345.66499999999996 L453.5 398.835' stroke-width='30.75' stroke='%233a7cc3'%3e%3c/path%3e%3cpath d='M494.5 275.145 L494.5 284.855' stroke-width='30.75' stroke='%233a7cc3'%3e%3c/path%3e%3cpath d='M535.5 235.315 L535.5 324.685' stroke-width='30.75' stroke='%233a7cc3'%3e%3c/path%3e%3cpath d='M576.5 248.265 L576.5 311.735' stroke-width='30.75' stroke='%23dd1133'%3e%3c/path%3e%3cpath d='M617.5 162.005 L617.5 223.505' stroke-width='30.75' stroke='%233a7cc3'%3e%3c/path%3e%3cpath d='M617.5 269.63 L617.5 397.995' stroke-width='30.75' stroke='%233a7cc3'%3e%3c/path%3e%3cpath d='M658.5 223.545 L658.5 336.455' stroke-width='30.75' stroke='%233a7cc3'%3e%3c/path%3e%3cpath d='M699.5 114.685 L699.5 206.935' stroke-width='30.75' stroke='%23dd1133'%3e%3c/path%3e%3cpath d='M699.5 253.06 L699.5 345.31' stroke-width='30.75' stroke='%233a7cc3'%3e%3c/path%3e%3cpath d='M699.5 391.435 L699.5 445.315' stroke-width='30.75' stroke='%233a7cc3'%3e%3c/path%3e%3cpath d='M740.5 271.435 L740.5 288.565' stroke-width='30.75' stroke='%233a7cc3'%3e%3c/path%3e%3cpath d='M781.5 197.495 L781.5 362.505' stroke-width='30.75' stroke='%23dd1133'%3e%3c/path%3e%3cpath d='M822.5 208.795 L822.5 239.545' stroke-width='30.75' stroke='%233a7cc3'%3e%3c/path%3e%3cpath d='M822.5 285.66999999999996 L822.5 351.205' stroke-width='30.75' stroke='%233a7cc3'%3e%3c/path%3e%3cpath d='M863.5 132.475 L863.5 163.225' stroke-width='30.75' stroke='%23dd1133'%3e%3c/path%3e%3cpath d='M863.5 209.35 L863.5 427.515' stroke-width='30.75' stroke='%23dd1133'%3e%3c/path%3e%3cpath d='M904.5 167.165 L904.5 228.665' stroke-width='30.75' stroke='%233a7cc3'%3e%3c/path%3e%3cpath d='M904.5 274.78999999999996 L904.5 305.53999999999996' stroke-width='30.75' stroke='%23dd1133'%3e%3c/path%3e%3cpath d='M904.5 351.66499999999996 L904.5 392.835' stroke-width='30.75' stroke='%233a7cc3'%3e%3c/path%3e%3cpath d='M945.5 234.865 L945.5 325.135' stroke-width='30.75' stroke='%233a7cc3'%3e%3c/path%3e%3cpath d='M986.5 214.265 L986.5 345.735' stroke-width='30.75' stroke='%23dd1133'%3e%3c/path%3e%3cpath d='M1027.5 177.785 L1027.5 208.535' stroke-width='30.75' stroke='%233a7cc3'%3e%3c/path%3e%3cpath d='M1027.5 254.66 L1027.5 285.40999999999997' stroke-width='30.75' stroke='%23dd1133'%3e%3c/path%3e%3cpath d='M1027.5 331.53499999999997 L1027.5 382.225' stroke-width='30.75' stroke='%23dd1133'%3e%3c/path%3e%3cpath d='M1068.5 275.155 L1068.5 284.845' stroke-width='30.75' stroke='%23dd1133'%3e%3c/path%3e%3cpath d='M1109.5 116.685 L1109.5 178.185' stroke-width='30.75' stroke='%23dd1133'%3e%3c/path%3e%3cpath d='M1109.5 224.31 L1109.5 347.31' stroke-width='30.75' stroke='%233a7cc3'%3e%3c/path%3e%3cpath d='M1109.5 393.435 L1109.5 443.315' stroke-width='30.75' stroke='%233a7cc3'%3e%3c/path%3e%3cpath d='M1150.5 209.695 L1150.5 350.305' stroke-width='30.75' stroke='%23dd1133'%3e%3c/path%3e%3c/g%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1161'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");    
+    }
+    #r2 .col-md-5{
+        width: 50%;
+        height: auto;
+        margin-top:0%;
+        padding:0% ;
+    }
+    #featured-image img{
+        width: 70%;
+        height: auto;
+    }
+    /* home end */
+    #about {
+        height: auto;
+    }
+    #about .col-md-5{
+        width: 70%;
+    }
+    #about .col-md-5 img{
+        width: 0%;
+        margin: auto;
+    }
+    #skill .row .col{
+        width: 40%;
+        
+    }
+    #services .sp{
+        width: 80%;
+    }
+    #services p{
+        text-align:justify;
+    }
+    #protflio{
+        height: auto;
+    }
+   
+}
+@media screen and (max-width: 375px){
+    #r2{
+        height: auto;
+    }
+    #r2 #r2d1{
+        width: 100%;
+        height: 300px;
+        margin-top:0%;
+        padding:5% ;
+    } 
+    #featured-image img{
+        width: 0;
+        height: 0;   
+    }
+    #about {
+        height: auto;
+    }
+    #about .col-md-5{
+        width: 90%;
+    }
+    #about .col-md-5 img{
+        width: 50%;
+        margin-left: 25%; 
+    }
+    #skill .row .col{
+        width: 80%;
+    }
+    #foot .row{
+        width: 100%;
+        
+    }
+    #foot .row .col-md-5{
+        width: 100%;
+    }
+}
